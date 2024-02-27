@@ -1,1 +1,25 @@
-# Registration-Page
+
+Bharat Intern Task-1: Develop a fully functional registration form to allow users to sign up and save their information using HTML, CSS, Node.js, and MongoDB.                                                                                                                                                                                                                                                                                                                                                                                                            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                        
+  
+  
